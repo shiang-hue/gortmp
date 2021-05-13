@@ -1,7 +1,7 @@
 package rtmp
 
 import (
-	"../avformat"
+	"github.com/shiang-hue/gortmp/avformat"
 	"fmt"
 )
 
