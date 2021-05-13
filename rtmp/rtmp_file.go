@@ -1,11 +1,11 @@
 package rtmp
 
 import (
-	"../avformat"
+	"github.com/shiang-hue/gortmp/avformat"
 	//"../config"
-	"../hls"
-	"../mpegts"
-	"../util"
+	"github.com/shiang-hue/gortmp/hls"
+	"github.com/shiang-hue/gortmp/mpegts"
+	"github.com/shiang-hue/gortmp/util"
 	"bytes"
 	"errors"
 	//"fmt"
