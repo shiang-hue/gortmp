@@ -1,8 +1,8 @@
 package mpegts
 
 import (
-	"../avformat"
-	"../util"
+	"github.com/shiang-hue/gortmp/avformat"
+	"github.com/shiang-hue/gortmp/util"
 	"bytes"
 	"errors"
 	"fmt"
