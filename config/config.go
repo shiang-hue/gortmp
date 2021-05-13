@@ -1,7 +1,7 @@
 package config
 
 import (
-	"../util"
+	"github.com/shiang-hue/gortmp/util"
 	"errors"
 	"os"
 	"strconv"
