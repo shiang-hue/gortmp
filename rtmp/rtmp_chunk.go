@@ -2,7 +2,7 @@ package rtmp
 
 import (
 	//"fmt"
-	"../util"
+	"github.com/shiang-hue/gortmp/util"
 	"bytes"
 	"errors"
 )
