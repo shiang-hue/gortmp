@@ -1,8 +1,8 @@
 package mpegts
 
 import (
-	"../rtmplog"
-	"../util"
+	"github.com/shiang-hue/gortmp/rtmplog"
+	"github.com/shiang-hue/gortmp/util"
 	"bytes"
 	"errors"
 	"fmt"
