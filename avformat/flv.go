@@ -2,7 +2,7 @@ package avformat
 
 import (
 	//"../rtmplog"
-	"../util"
+	"github.com/shiang-hue/gortmp/util"
 	"bytes"
 	"errors"
 	"fmt"
